@@ -22,7 +22,7 @@ A Flutter-based Serial BLE Terminal for Nordic UART service, with customizable U
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/Serial-BLE-Terminal.git
+    git clone https://github.com/I-em-zain/Serial-BLE-Terminal.git
     ```
 
 2. **Navigate to the Project Directory**
